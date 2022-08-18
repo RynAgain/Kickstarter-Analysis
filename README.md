@@ -11,11 +11,17 @@ This anlaysis will focus on the launch date of the kickstarters and their fundra
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+![dataone](Kickstarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png?raw=true "Data title")
+
 In figure 1 (Theater_Outcomes_vs_Launch.png) we can see a compairson of launch month and how many Theater type kickstarters were failed, cancled, or successful.
 Given the low volume of canceled theater kickstarters, we will mostly focus on ones that were failed and successful.  The top grey line on the chart is shows that May is the best time to 
 be launching the Kickstarter since it has the highest number of successful campainges. Any other time of the year would produce a lower success rate.
 
 ### Analysis of Outcomes Based on Goals
+
+![dataone](Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png?raw=true "Data title")
+
 In Figure 2 (Outcomes_vs_Goals.png) we compare different ranges of fundraising goals to the general success rate of plays.  The graph shows two ranges that have a success rate higher than the both the failure rate and cancelation rate.
 The first success range is $1 to $15000 and the second is 35000 to 45000.  Anything outside of these ranges has a higer chance of failing.
 
